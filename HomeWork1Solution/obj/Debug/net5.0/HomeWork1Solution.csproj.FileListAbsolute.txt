@@ -1,0 +1,16 @@
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.exe
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.deps.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.runtimeconfig.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.runtimeconfig.dev.json
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\ref\HomeWork1Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\bin\Debug\net5.0\HomeWork1Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.csproj.AssemblyReference.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.AssemblyInfoInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.AssemblyInfo.cs
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.csproj.CoreCompileInputs.cache
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\ref\HomeWork1Solution.dll
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.pdb
+C:\Users\ismatullo.mukhamedzh\Desktop\Alif Academy\HW1\HomeWork1Solution\obj\Debug\net5.0\HomeWork1Solution.genruntimeconfig.cache
